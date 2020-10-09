@@ -7,3 +7,5 @@ if n_1 > n_2:
     print(f"la palabra {p1} tiene {contador} letras mas que {p2} ")
 elif n_1 < n_2 :
     print(f"la palabra {p2} tiene {contador} letras mas que {p1}")
+elif n_1 == n_2 :
+    print("las palabras tienen el mismo largo")
