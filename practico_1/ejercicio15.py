@@ -2,9 +2,13 @@
 n= int(input("ingrese un numero entero: "))
 valor= n
 while valor >1 :
-    if valor%2 == 0:
-        valor = valor/ 2
+    if valor% 2 == 0:
+        valor = valor / 2
         print(valor)
     else:
         valor = (valor * 3) + 1
         print(valor)
+
+for n in range(1,n +1) :
+    num1 = "*" * n
+    print(num1)
