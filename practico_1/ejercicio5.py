@@ -1,3 +1,4 @@
+#escriba un programa que pida al usuario dos palabras y que indique cual de ellas es la mas largan ypor cuantas letras
 p1 = str(input("ingrese, palabra: "))
 p2 = str(input("ingrese,palabra: "))
 n_1 = len(p1)

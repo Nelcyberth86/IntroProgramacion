@@ -1,3 +1,4 @@
+# E6: Escribir un programa que pida al usuario su peso (en kg) y estatura (en metros)
 peso_en_kg =int(input("ingrese, su_peso_en_kg_por_favor: "))
 estatura_en_m= float(input("ingrese, su-estatura_en_metros_por_favor: "))
 var1 = peso_en_kg / estatura_en_m

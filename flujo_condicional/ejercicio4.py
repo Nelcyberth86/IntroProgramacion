@@ -1,3 +1,5 @@
+#E4: Debido a la actual escasez de agua, la empresa COSAALT ha decidido penalizar el consumo excesivo de agua incrementando el
+#precio según la cantidad consumida.
 monto_de_pago = int(input("ingrese, consumo de agua m3: "))
 if monto_de_pago < int(100) :
     monto= int(monto_de_pago * 1)

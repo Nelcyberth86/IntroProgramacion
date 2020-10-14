@@ -1,3 +1,4 @@
+#escriba un programa que reciba como entrada dos numeros y los muestre ordenados de menor a mayor
 num1 = int(input("ingrese, numero : "))
 num2 = int(input("ingrese, numero : "))
 x = min(num1, num2)

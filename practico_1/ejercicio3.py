@@ -1,3 +1,4 @@
+#escriba un programa que calculela division, indicado si la division ,indicar si es exacta o no
 dividendo= int(input("ingrese numero: "))
 divisor = int(input("ingrese numero: "))
 cociente = dividendo // divisor

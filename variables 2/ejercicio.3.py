@@ -1,3 +1,4 @@
+#• E3: Leer el radio de un círculo por teclado y mostrar el área y perímetro del círculo en pantalla.
 import math
 
 radio= int(input("ingrese, el numero del radio de un circulo: "))

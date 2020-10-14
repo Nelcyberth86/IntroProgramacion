@@ -1,3 +1,4 @@
+#• E4: Leer dos números por teclado y mostrar en pantalla, para cada enunciado, si es verdadero o falso:
 num1 = int(input("ingrese, numero 1: "))
 num2 = int(input("ingrese numero 2: "))
 son_iguales = num1 == num2
