@@ -9,4 +9,5 @@ def factorial(n):
         FACT.append(factorial)
     print(FACT)
 numero=int(input("Ingrese un numero por favor: "))
+
 num=factorial(numero)

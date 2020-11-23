@@ -4,6 +4,7 @@
 #import array as np
 num1=input("ingrese un caracter:")
 num2=input("ingrese un caracter:")
+
 v1 = [num1]*5
 v2 = [num2]*5
 suma = []
