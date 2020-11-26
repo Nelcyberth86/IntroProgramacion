@@ -1,4 +1,3 @@
-import random
 def imprimirAhorcado(intentos):
     if(intentos==6):
         print("================")
